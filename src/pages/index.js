@@ -27,8 +27,8 @@ function HomepageHeader() {
             </Link>
           </div>
 
-
         </div>
+
       </div>
     </header>
   );

@@ -161,11 +161,26 @@ const config = {
         ],
         copyright: `Copyright © ${new Date().getFullYear()} The Crunch Pot, Inc. Built with Docusaurus.`,
       },
+      
       // prism: {
       //   theme: lightCodeTheme,
       //   darkTheme: darkCodeTheme,
       // },
     }),
+    /// add search bar 
+    // plugins: [
+    //   [
+    //     require.resolve("@easyops-cn/docusaurus-search-local"),
+    //     ({
+    //       hashed: true,
+    //       language: ["en"],
+    //       indexDocs: true,
+    //       indexBlog: false,
+    //       indexPages: false,
+    //       explicitSearchResultPath: true
+    //     }),
+    //   ],
+    // ],
 };
 
 module.exports = config;
