@@ -10,7 +10,7 @@ const config = {
   tagline: 'Health, Wellness, Life',
   url: 'https://crunchpot.org',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   favicon: 'img/logo.svg',
