@@ -8,7 +8,7 @@ const socials = require("./socials");
 const config = {
   title: 'The Crunch Pot',
   tagline: 'Health, Wellness, Life',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://crunchpot.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -23,21 +23,10 @@ const config = {
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
-  // i18n: {
-  //   defaultLocale: "en",
-  //   locales: ["en", "de", "es"],
-  //   localeConfigs: {
-  //     en: {
-  //       label: "English",
-  //     },
-  //     de: {
-  //       label: "Deutsch",
-  //     },
-  //     es: {
-  //       label: "Español",
-  //     },
-  //   },
-  // },
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en"],
+  },
   presets: [
     [
       'classic',
@@ -97,7 +86,7 @@ const config = {
       },
       announcementBar: {
         id: 'Sign Up for Emails',
-        content: 'Preview Recipes: <a target="_blank" rel="noopener noreferrer" href="https://www.patreon.com/thestorykeeper"> Sign up</a>',
+        content: 'Preview Recipes: <a target="_blank" rel="noopener noreferrer" href="https://form.jotform.com/223397765495170"> Sign up</a>',
         backgroundColor: 'var(--primary-fg)',
         textColor: 'var(--primary-bg)',
         isCloseable: true,
@@ -143,10 +132,10 @@ const config = {
           {
             title: 'Support',
             items: [
-              
+              ttps://www.patreon.com/thestor
               {
                 label: 'Patreon',
-                href: 'https://www.patreon.com/thestorykeeper',
+                href: 'hykeeper',
               },
               {
                 label: 'Youtube',
