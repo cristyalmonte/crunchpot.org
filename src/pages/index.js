@@ -1,34 +1,43 @@
-import React from 'react';
-import clsx from 'clsx';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import React from "react";
+import clsx from "clsx";
+import Link from "@docusaurus/Link";
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+import Layout from "@theme/Layout";
+import HomepageFeatures from "@site/src/components/HomepageFeatures";
 
-import styles from './index.module.css';
+import styles from "./index.module.css";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx('hero', styles.heroBanner)}>
+    <header className={clsx("hero", styles.heroBanner)}>
       <div className="container">
-
-        <div style={{
-          backgroundImage: `url("img/stock3.jpeg")`, height: "32rem", backgroundPosition: "center", backgroundSize: "cover"
-        }}>
-          <h1 className="heroTitle" >{siteConfig.title}</h1>
-          {/* <h1>  Welcome to my Blog </h1> */}
-          <p className="hero__subtitle">{siteConfig.tagline}</p>
-          <div className={styles.buttons}>
-            <Link
-              className="button button--secondary button--lg"
-              to="/docs/intro">
-              New Recipes - Available Now 🧑‍🍳
-            </Link>
+        <div
+          style={{
+            backgroundImage: `url("img/stock3.jpeg")`,
+            height: "32rem",
+            backgroundPosition: "center",
+            backgroundSize: "cover",
+          }}
+        >
+          <div
+            style={{
+              paddingTop: "9rem",
+            }}
+          >
+            <h1 className="heroTitle">{siteConfig.title}</h1>
+            {/* <h1>  Welcome to my Blog </h1> */}
+            <p className="hero__subtitle">{siteConfig.tagline}</p>
+            <div className={styles.buttons}>
+              <Link
+                className="button button--secondary button--lg"
+                to="/docs/intro"
+              >
+                New Recipes 🧑🍳
+              </Link>
+            </div>
           </div>
-
         </div>
-
       </div>
     </header>
   );
@@ -41,7 +50,8 @@ export default function Home() {
       title={`Home`}
       // title={`Home of ${siteConfig.title}`}
 
-      description="Description will go into a meta tag in <head />">
+      description="Description will go into a meta tag in <head />"
+    >
       <HomepageHeader />
       <main>
         <HomepageFeatures />
