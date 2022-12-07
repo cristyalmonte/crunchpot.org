@@ -2,9 +2,9 @@ import React from "react";
 import styles from "./styles.module.css";
 import clsx from "clsx";
 
-import Image1 from "@site/static/img/stock.jpeg";
-import Image2 from "@site/static/img/pasta.png";
-import Image3 from "@site/static/img/stock2.jpeg";
+import Image1 from "@site/static/img/macarons.jpeg";
+import Image2 from "@site/static/img/blended_oats.jpeg";
+import Image3 from "@site/static/img/french_bread.jpeg";
 import Link from "@docusaurus/Link";
 
 function Post({ title, desc, img, linkname, linkpath }) {
@@ -32,22 +32,22 @@ export default function BlogList() {
             title="Title"
             desc="desc"
             img={Image1}
-            linkname="macorrooonns"
+            linkname=" Perfecting Macarons"
             linkpath="blog/mdx-blog-post"
           />
           <Post
             title="Title"
             desc="desc"
             img={Image2}
-            linkname=""
-            linkpath=""
+            linkname="Blended Baked Oats"
+            linkpath="/blog/first-blog-post"
           />
           <Post
             title="Title"
             desc="desc"
             img={Image3}
-            linkname=""
-            linkpath=""
+            linkname="Taste the Crunch"
+            linkpath="blog/welcome"
           />
         </div>
       </div>
