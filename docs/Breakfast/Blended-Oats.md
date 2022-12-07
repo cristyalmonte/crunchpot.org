@@ -6,10 +6,13 @@ tags: [oats, oatmeal, breakfast, gluten free, OAS friendly]
 ## Yummy Blended Oats 
 These yummy blended baked oats are packed with dietary fiber, essential nutrients, and vitamins to help you start off your day feeling satisfied, while tricking your taste buds into thinking you’re eating dessert for breakfast.
 
-![Docusaurus Plushie](./bakedoats.jpeg)
+![Oats](./bakedoats.jpeg)
+<!-- <p align="center">
+  <img width="460" height="300" src="bakedoats.jpg" data-url="/get_image/{{image.id}}//>
+</p> -->
 #### Ingredients:
 - 1/2 cup rolled or quick oats 
-- 1 tbsp honey
+- 1 tbsp honey∆
 - 1 tbsp peanut butter
 - 1/2 riped banana
 - 1/4 tsp baking powder
