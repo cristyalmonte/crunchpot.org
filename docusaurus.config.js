@@ -132,7 +132,7 @@ const config = {
           {
             title: 'Support',
             items: [
-              ttps://www.patreon.com/thestor
+              //www.patreon.com/thestor
               {
                 label: 'Patreon',
                 href: 'hykeeper',
