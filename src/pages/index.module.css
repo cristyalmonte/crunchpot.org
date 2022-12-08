@@ -26,3 +26,17 @@
   bottom: 8px;
   left: 16px;
 }
+
+img[alt=Oats] { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+img[alt=pasta] { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+

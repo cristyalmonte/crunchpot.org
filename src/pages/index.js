@@ -15,7 +15,7 @@ function HomepageHeader() {
       <div className="container">
         <div
           style={{
-            backgroundImage: `url("img/stock3.jpeg")`,
+            backgroundImage: `url("img/background.jpeg")`,
             height: "32rem",
             backgroundPosition: "center",
             backgroundSize: "cover",
@@ -34,7 +34,7 @@ function HomepageHeader() {
                 className="button button--secondary button--lg"
                 to="/docs/intro"
               >
-                New Recipes 🧑🍳
+                New Recipes 👩‍🍳🍳
               </Link>
             </div>
           </div>
@@ -49,8 +49,6 @@ export default function Home() {
   return (
     <Layout
       title={`Home`}
-      // title={`Home of ${siteConfig.title}`}
-
       description="Description will go into a meta tag in <head />"
     >
       <HomepageHeader />

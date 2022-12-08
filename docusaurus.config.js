@@ -12,8 +12,8 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-
   favicon: 'img/logo.svg',
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/cristyalmonte/crunchpot.org',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/cristyalmonte/crunchpot.org',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -62,6 +62,7 @@ const config = {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
+        hideOnScroll: false,
         items: [
           {
             type: 'doc',
@@ -72,10 +73,13 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           ...socials,
-
           {
             href: 'https://www.patreon.com/thestorykeeper',
             label: 'Donate',
+            position: 'right',
+          },
+          {
+            type: 'search',
             position: 'right',
           },
           // {
@@ -132,10 +136,10 @@ const config = {
           {
             title: 'Support',
             items: [
-              //www.patreon.com/thestor
+
               {
                 label: 'Patreon',
-                href: 'hykeeper',
+                href: 'https://www.patreon.com/thestorykeeper',
               },
               {
                 label: 'Youtube',
@@ -156,7 +160,6 @@ const config = {
       //   darkTheme: darkCodeTheme,
       // },
     }),
-    /// add search bar 
     // plugins: [
     //   [
     //     require.resolve("@easyops-cn/docusaurus-search-local"),

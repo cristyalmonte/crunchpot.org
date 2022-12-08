@@ -2,7 +2,7 @@
 slug: welcome
 title: Taste the Crunch
 authors: [cristy]
-tags: [recipes, lifestyle, macarons]
+tags: [recipes, lifestyle, bread]
 ---
 
 ### Welcome to the Crunch Pot.
@@ -15,4 +15,4 @@ Healthy Recipes for all:
 - Keto/Paelo
 - OAS friendly
 
-![Docusaurus Plushie](./macarons.jpeg)
+![Docusaurus Plushie](./pastry.jpeg)
