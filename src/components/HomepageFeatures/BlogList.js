@@ -40,7 +40,7 @@ export default function BlogList() {
             desc="desc"
             img={Image2}
             linkname="Blended Baked Oats"
-            linkpath="/blog/first-blog-post"
+            linkpath="/blog/oats"
           />
           <Post
             title="Title"
