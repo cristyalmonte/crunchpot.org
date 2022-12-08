@@ -9,7 +9,7 @@ These yummy blended baked oats are packed with dietary fiber and essential nutri
 
 #### Ingredients:
 - 1/2 cup rolled or quick oats 
-- 1/4 cup of oat milk 
+- 1/4 cup oat milk 
 - 1 tbsp honey
 - 1 tbsp peanut butter
 - 1/4 tsp baking powder
