@@ -53,5 +53,10 @@ img[alt=lunch] {
   margin-right: auto;
   width: 70%;
 }
-
+img[alt=pudding] { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
 

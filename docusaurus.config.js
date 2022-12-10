@@ -72,9 +72,10 @@ const config = {
             ,
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {href:'https://www.amazon.com/b?node=23520742011', label: 'Amazon', position:'left'},
           ...socials,
           {
-            href: 'https://www.patreon.com/thestorykeeper',
+            href: 'https://www.patreon.com/',
             label: 'Donate',
             position: 'right',
           },

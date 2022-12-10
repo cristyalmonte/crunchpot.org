@@ -6,15 +6,16 @@ import Image1 from "@site/static/img/macarons.jpeg";
 import Image2 from "@site/static/img/baked_oats_all.jpeg";
 import Image3 from "@site/static/img/pastry.jpeg";
 
-const App = () => {
-  const myImageStyle = { width: '600px', height: '500px' };
+// fix issue with images
+// const App = () => {
+//   const myImageStyle = { width: '600px', height: '500px' };
 
-  return (
-     <div>
-        <img style={myImageStyle} src={Image3} alt="" />
-     </div>
-  );
-};
+//   return (
+//      <div>
+//         <img style={myImageStyle} src={Image3} alt="" />
+//      </div>
+//   );
+// };
 
 import Link from "@docusaurus/Link";
 

@@ -8,20 +8,21 @@ These yummy blended baked oats are packed with dietary fiber and essential nutri
 ![Oats](./img/baked_oats_all.jpeg)
 
 #### Ingredients:
-- 1/2 cup rolled or quick oats 
-- 1/4 cup oat milk 
+- ½ cup rolled or quick oats 
+- ¼  cup oat milk 
 - 1 tbsp honey
 - 1 tbsp peanut butter
-- 1/4 tsp baking powder
-- 1/2 riped banana
+- ¼  tsp baking powder
+- ½  riped banana
 - 1 egg
 - pinch of cinnamon
 - pinch of salt
 - fruit for layering (fresh blueberries or raspberries)
 
 #### Honey Cream Cheese Glaze
-- 1/3 cup cream cheese
-- 1/4 cup honey
+- ⅓ cup cream cheese
+- ¼ cup honey
+
 
 Mix the honey and cream cheese in a blender until the glaze reaches a thick consistency. 
 
