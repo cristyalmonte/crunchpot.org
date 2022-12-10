@@ -1,7 +1,4 @@
 {
   "label": "Lunch",
-  "position": 3,
-  "link": {
-    "type": "generated-index"
-  }
+  "position": 3
 }

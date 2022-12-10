@@ -40,3 +40,18 @@ img[alt=pasta] {
   width: 50%;
 }
 
+img[alt=dessert] { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+img[alt=lunch] { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+

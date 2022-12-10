@@ -5,7 +5,7 @@ tags: [oats, oatmeal, breakfast, gluten free, OAS friendly]
 
 These yummy blended baked oats are packed with dietary fiber and essential nutrients to help you start the day feeling satisfied, while tricking your taste buds into thinking you’re eating dessert for breakfast.
 
-![Oats](./baked_oats_all.jpeg)
+![Oats](./img/baked_oats_all.jpeg)
 
 #### Ingredients:
 - 1/2 cup rolled or quick oats 

@@ -5,7 +5,7 @@ tags: [wings, keto, chicken, paleo]
 
 This simple recipes yet tasty recipe will elevate your dinner experience. You'll be wanting more 
 
-![Wings](./wings.jpeg)
+![Wings](./img/wings.jpeg)
 
 #### Ingredients:
 - 2 tablespoons salt

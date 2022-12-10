@@ -1,8 +1,5 @@
 {
   "label": "Desserts",
-  "position": 5,
-  "link": {
-    "type": "generated-index",
-    "description": "Breakfast Recipess."
+  "position": 5
   }
-}
+
