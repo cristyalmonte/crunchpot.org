@@ -3,8 +3,19 @@ import styles from "./styles.module.css";
 import clsx from "clsx";
 
 import Image1 from "@site/static/img/macarons.jpeg";
-import Image2 from "@site/static/img/blended_oats.jpeg";
-import Image3 from "@site/static/img/french_bread.jpeg";
+import Image2 from "@site/static/img/baked_oats_all.jpeg";
+import Image3 from "@site/static/img/pastry.jpeg";
+
+const App = () => {
+  const myImageStyle = { width: '600px', height: '500px' };
+
+  return (
+     <div>
+        <img style={myImageStyle} src={Image3} alt="" />
+     </div>
+  );
+};
+
 import Link from "@docusaurus/Link";
 
 function Post({ title, desc, img, linkname, linkpath }) {
