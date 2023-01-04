@@ -11,9 +11,9 @@ This simple, yet tasty recipe will elevate your dinner experience.
 - 2 tablespoons salt
 - 1 tablespoon paprika
 - 2 teaspoons ground black pepper
-- 1 1⁄2 teaspoons onion powder
-- 1 1⁄2 teaspoons dried oregano
-- 1 1⁄2 teaspoons ground cumin
+- 1 ½ teaspoons onion powder
+- 1 ½ teaspoons dried oregano
+- 1 ½ teaspoons ground cumin
 - 1 teaspoon garlic powder
 - 1 teaspoon chili powder
 - 1 pound of chicken wings

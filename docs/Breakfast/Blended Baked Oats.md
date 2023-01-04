@@ -23,11 +23,12 @@ These yummy blended baked oats are packed with dietary fiber and essential nutri
 - ⅓ cup cream cheese
 - ¼ cup honey
 
-
 Mix the honey and cream cheese in a blender until the glaze reaches a thick consistency. 
 
 #### Instructions
-- Mix all ingredients (except blueberries) in a blender. Add the blended mixture into a oven-safe suffle bowl, making sure to add a layer of batter first followed by a layer of fruit. Bake at 350°F for 25 minutes or until a toothpick comes out clean. Top with a layer of honey cream cheese glaze. 
+- Mix all ingredients (except blueberries) in a blender. Add the blended mixture into a oven-safe suffle bowl, making sure to add a layer of batter first followed by a layer of fruit.
+- Bake at 350°F for 25 minutes or until a toothpick comes out clean. 
+- Top with a layer of honey cream cheese glaze. 
 
 #### Substitutions
 
