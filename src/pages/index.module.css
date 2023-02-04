@@ -36,9 +36,9 @@ img {
 @media (prefers-color-scheme: dark) {
   .heroBanner {
     color: rgb(0, 0, 0);
+    background-color: rgb(29, 29, 29);
   }
 }
-
 /* 
 @media (min-width: 576px) {
   img {
