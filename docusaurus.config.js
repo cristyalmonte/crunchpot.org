@@ -74,15 +74,16 @@ const config = {
           {to: '/blog', label: 'Blog', position: 'left'},
           {href:'https://www.amazon.com/b?node=23520742011', label: 'Amazon', position:'left'},
           ...socials,
-          {
-            href: 'https://www.patreon.com/',
-            label: 'Donate',
-            position: 'right',
-          },
-          {
-            type: 'search',
-            position: 'right',
-          },
+          // {
+          //   href: 'https://www.patreon.com/',
+          //   label: 'Donate',
+          //   position: 'left',
+          // },
+          // {
+          //   to: 'search',
+          //   label: 'Search',
+          //   position: 'right',
+          // },
           // {
           //   type: "localeDropdown",
           //   position: "right",

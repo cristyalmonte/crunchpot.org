@@ -27,7 +27,7 @@ A simple yet delighful recipe, chia pudding is a super healthy and tasty dessert
 
 #### Substitutions
 
-- Any type of milk (oats, almonds) can be used 
+- Substitute milk for almond or oat milk 
 - Substitute honey for any sweetner of your choice (maple syrup, agave, monkfruit sweetener)
 - Add spices to enhance flavor (cinnamon, pumpkin, cocoa powder)
 

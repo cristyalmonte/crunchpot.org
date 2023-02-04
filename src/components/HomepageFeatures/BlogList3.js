@@ -1,11 +1,10 @@
 import React from "react";
 import styles from "./styles.module.css";
 import clsx from "clsx";
-import Search from 'react-search-input';
 
-import Image1 from "@site/static/img/macarons.jpeg";
-import Image2 from "@site/static/img/blended_oats.jpeg";
-import Image3 from "@site/static/img/pastry.jpeg";
+import Image1 from "@site/static/img/bread.jpeg";
+import Image2 from "@site/static/img/french_bread.jpeg";
+
 
 // fix issue with images
 // const App = () => {
@@ -22,12 +21,12 @@ import Link from "@docusaurus/Link";
 
 function Post({ title, desc, img, linkname, linkpath }) {
   return (
-    <div className={clsx("col col--4")}>
+    <div className={clsx("col col--6")}>
       <Link to={linkpath}>
         <div className="text--center">
-          <img className={styles.featureSvg} src={img} />;
+          <img className={styles.featureSvg2} src={img} />;
         </div>
-        <div className="text--center padding-horiz--md">
+        <div className="text--center padding-horiz--sm">
           {/* <h3>{title}</h3> */}
           <h3>{linkname}</h3>
         </div>
@@ -45,22 +44,15 @@ export default function BlogList() {
             title="Title"
             desc="desc"
             img={Image1}
-            linkname=" Perfecting Macarons"
+            linkname=" Art to Tasty Bread"
             linkpath="blog/mdx-blog-post"
           />
           <Post
             title="Title"
             desc="desc"
             img={Image2}
-            linkname="Blended Baked Oats"
+            linkname="Fluffy Artisian Bread "
             linkpath="/blog/oats"
-          />
-          <Post
-            title="Title"
-            desc="desc"
-            img={Image3}
-            linkname="Taste the Crunch"
-            linkpath="blog/welcome"
           />
         </div>
       </div>

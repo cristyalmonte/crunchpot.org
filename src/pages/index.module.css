@@ -13,6 +13,7 @@
 @media screen and (max-width: 996px) {
   .heroBanner {
     padding: 2rem;
+    color: rgb(0, 0, 0);
   }
 }
 
@@ -26,6 +27,36 @@
   bottom: 8px;
   left: 16px;
 }
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+@media (prefers-color-scheme: dark) {
+  .heroBanner {
+    color: rgb(0, 0, 0);
+  }
+}
+
+/* 
+@media (min-width: 576px) {
+  img {
+    max-width: 25%;
+  }
+}
+
+@media (min-width: 768px) {
+  img {
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 992px) {
+  img {
+    max-width: 75%;
+  }
+} */
 
 img[alt=Oats] { 
   display: block;
@@ -58,5 +89,27 @@ img[alt=pudding] {
   margin-left: auto;
   margin-right: auto;
   width: 60%;
+} 
+
+img[alt=Image3] { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+} 
+:root {
+  --light-text-color: #333;
+  --dark-text-color: #eee;
 }
+
+.landing-section h1, .landing-section h2, .landing-section p {
+  color: var(--light-text-color);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: var(--dark-text-color);
+  }
+}
+
 

@@ -7,6 +7,8 @@ import HomepageFeatures from "@site/src/components/HomepageFeatures";
 
 import styles from "./index.module.css";
 import BlogList from "../components/HomepageFeatures/BlogList";
+import BlogList2 from "../components/HomepageFeatures/BlogList2";
+import BlogList3 from "../components/HomepageFeatures/BlogList3";
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -54,7 +56,9 @@ export default function Home() {
       <HomepageHeader />
       <main>
         {/* <HomepageFeatures /> */}
-        <BlogList />
+        <BlogList3 />
+       < BlogList />
+       <BlogList2 />
       </main>
     </Layout>
   );

@@ -3,9 +3,9 @@ import styles from "./styles.module.css";
 import clsx from "clsx";
 import Search from 'react-search-input';
 
-import Image1 from "@site/static/img/macarons.jpeg";
-import Image2 from "@site/static/img/blended_oats.jpeg";
-import Image3 from "@site/static/img/pastry.jpeg";
+import Image1 from "@site/static/img/salad_new.jpeg";
+import Image2 from "@site/static/img/bread_stock.jpeg";
+import Image3 from "@site/static/img/pizza.jpeg";
 
 // fix issue with images
 // const App = () => {
@@ -45,21 +45,21 @@ export default function BlogList() {
             title="Title"
             desc="desc"
             img={Image1}
-            linkname=" Perfecting Macarons"
+            linkname="Best Salad Recipe"
             linkpath="blog/mdx-blog-post"
           />
           <Post
             title="Title"
             desc="desc"
             img={Image2}
-            linkname="Blended Baked Oats"
+            linkname="Healthy Bread"
             linkpath="/blog/oats"
           />
           <Post
             title="Title"
             desc="desc"
             img={Image3}
-            linkname="Taste the Crunch"
+            linkname="Pizza Pizza"
             linkpath="blog/welcome"
           />
         </div>
