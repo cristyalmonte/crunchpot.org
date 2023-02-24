@@ -1,6 +1,9 @@
 ---
 sidebar_position: 3
 tags: [oats, oatmeal, breakfast, gluten free, bananas]
+id: 2
+title: Pancakes 
+content: Pancakes are delicious 
 ---
 
 ![Oats](./img/pancakes_2.jpeg)

@@ -1,6 +1,9 @@
 ---
 sidebar_position: 1
 tags: [oats, oatmeal, breakfast, gluten free, OAS friendly]
+id: 1
+title:  Oats
+content: 'These yummy blended baked oats are packed with dietary fiber and essential nutrients to help you start the day feeling satisfied, while tricking your taste buds into thinking you’re eating dessert for breakfast.'
 ---
 
 These yummy blended baked oats are packed with dietary fiber and essential nutrients to help you start the day feeling satisfied, while tricking your taste buds into thinking you’re eating dessert for breakfast.

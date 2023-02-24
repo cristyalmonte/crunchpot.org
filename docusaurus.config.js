@@ -56,6 +56,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      search: {
+        // Optional, by default Docusaurus searches files listed in docs/sidebar.js.
+        // You can include any searchable file types in this array.
+        // Note that you must also have a matching plugin to be able to parse the files.
+        // Supported file types include: .md, .mdx, .html, .json, .js, .jsx
+        // searchableFiles: ['.md', '.mdx'],
+      },
       navbar: {
         title: 'Home',
         logo: {
@@ -68,21 +75,18 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Cookbook'
+            label: 'THE COOKBOOK'
             ,
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {href:'https://www.amazon.com/b?node=23520742011', label: 'Amazon', position:'left'},
+          {to: '/blog', label: 'BLOG', position: 'left'},
+          {to: '/donate/', label: 'ABOUT', position: 'left'},
+          {href:'https://www.amazon.com/b?node=23520742011', label: 'AMAZON', position:'left'},
+        
           ...socials,
           // {
           //   href: 'https://www.patreon.com/',
           //   label: 'Donate',
           //   position: 'left',
-          // },
-          // {
-          //   to: 'search',
-          //   label: 'Search',
-          //   position: 'right',
           // },
           // {
           //   type: "localeDropdown",
@@ -162,19 +166,20 @@ const config = {
       //   darkTheme: darkCodeTheme,
       // },
     }),
-    // plugins: [
-    //   [
-    //     require.resolve("@easyops-cn/docusaurus-search-local"),
-    //     ({
-    //       hashed: true,
-    //       language: ["en"],
-    //       indexDocs: true,
-    //       indexBlog: false,
-    //       indexPages: false,
-    //       explicitSearchResultPath: true
-    //     }),
-    //   ],
-    // ],
+    
+    plugins: [
+      [
+        require.resolve("@easyops-cn/docusaurus-search-local"),
+        ({
+          hashed: true,
+          language: ["en"],
+          indexDocs: true,
+          indexBlog: false,
+          indexPages: false,
+          explicitSearchResultPath: true
+        }),
+      ],
+    ],
 };
 
 module.exports = config;
