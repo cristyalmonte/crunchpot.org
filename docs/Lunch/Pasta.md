@@ -2,10 +2,8 @@
 sidebar_position: 1
 tags: ['pasta']
 ---
-
-![Oats](/img/pasta.jpeg)
 Our healthy pasta recipe is a satisfying and flavorful meal that's loaded with nutritious ingredients. We use whole wheat pasta, which is higher in fiber and more filling than traditional white pasta, and pair it with a variety of colorful veggies, lean protein, and a light sauce. The result is a well-rounded and delicious meal that's sure to please the whole family.
-
+![Oats](/img/pasta.jpeg)
 #### Ingredients:
 
 8 ounces whole wheat pasta

@@ -101,7 +101,6 @@ const config = {
         links: [
           {
             title: 'Docs',
-            
             items: [
 
               {
@@ -115,6 +114,7 @@ const config = {
               {
                 label: 'Blog',
                 to: '/docs/blog',
+                className: 'mobile-hide', // add the class "mobile-hide"
               },
             ],
           },
@@ -157,10 +157,10 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} The Crunch Pot, Inc. Built with Docusaurus.`,
       },
       
-      // prism: {
-      //   theme: lightCodeTheme,
-      //   darkTheme: darkCodeTheme,
-      // },
+      prism: {
+        theme: lightCodeTheme,
+        darkTheme: darkCodeTheme,
+      },
     }),
     
     plugins: [

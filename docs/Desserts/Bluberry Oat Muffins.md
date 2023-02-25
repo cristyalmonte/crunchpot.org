@@ -3,8 +3,7 @@ sidebar_position: 2
 tags: [muffins,healthy,gluten free]
 ---
 
-These healthy blueberry oat muffins are absolutely delicious and easy to make.  
-
+These healthy blueberry oat muffins are a nutritious and satisfying treat that are perfect for breakfast or a mid-day snack. Made with rolled oats, whole wheat flour, and fresh blueberries, they're a great source of fiber, vitamins, and antioxidants. The muffins have a moist, tender crumb and a slightly nutty flavor thanks to the oats, while the bursts of juicy blueberries add a sweet and tangy note. Best of all, this recipe is incredibly easy to make, with just a few simple steps and minimal prep time. Whether you're looking for a healthier alternative to traditional muffins or simply love the taste of blueberries, these muffins are sure to satisfy your cravings.
 ![pudding](./img/oat_muffins.jpeg)
 
 #### Ingredients:

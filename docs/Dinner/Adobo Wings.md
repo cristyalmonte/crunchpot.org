@@ -3,7 +3,8 @@ sidebar_position: 1
 tags: [wings, keto, chicken, paleo]
 ---
 
-This simple, yet tasty recipe will elevate your dinner experience.
+ A delicious and easy-to-make dish that is sure to become a new favorite at your dinner table. The dish features tender and juicy chicken wings coated in a savory and slightly spicy adobo sauce that packs a flavor punch. The combination of garlic, vinegar, soy sauce, and spices in the adobo marinade creates a depth of flavor that will tantalize your taste buds. Whether you're making them for a family dinner or serving them up for game day, these wings are sure to be a hit. Best of all, this recipe requires only a few simple ingredients and minimal prep time, making it an easy and convenient option for busy weeknights.
+
 
 ![Wings](./img/wings.jpeg)
 
