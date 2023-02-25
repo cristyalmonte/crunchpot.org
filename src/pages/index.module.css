@@ -27,10 +27,10 @@
   bottom: 8px;
   left: 16px;
 }
-img {
+/* img {
   max-width: 100%;
   height: auto;
-}
+} */
 
 
 img[alt=Oats] { 
@@ -65,11 +65,11 @@ img[alt=pudding] {
   margin-right: auto;
   width: 60%;
 } 
-img[alt=cristy] { 
+img[alt=cristy] {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 30%;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
 } 
 
 img[alt=Image3] { 
@@ -93,4 +93,7 @@ img[alt=Image3] {
   }
 }
 
-
+.landing-section {
+  padding: 2rem 0;
+  text-align: center;
+}

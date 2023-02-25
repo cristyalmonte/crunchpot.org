@@ -124,3 +124,21 @@
 .cursive {
   font-family: cursive;
 }
+.fantasy {
+  font-family: fantasy;
+}
+.monospace {
+  font-family: monospace;
+}
+.sans-serif {
+  font-family: sans-serif;
+}
+.serif {
+  font-family: serif;
+}
+@media (max-width: 767px) {
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+}
