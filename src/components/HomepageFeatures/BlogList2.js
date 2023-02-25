@@ -3,8 +3,8 @@ import styles from "./styles.module.css";
 import clsx from "clsx";
 import Search from 'react-search-input';
 
-import Image1 from "@site/static/img/salad_new.jpeg";
-import Image2 from "@site/static/img/bread_stock.jpeg";
+import Image1 from "@site/static/img/greek_salad.jpeg";
+import Image2 from "@site/static/img/oat_muffins.jpeg";
 import Image3 from "@site/static/img/pizza.jpeg";
 
 // fix issue with images
@@ -46,21 +46,21 @@ export default function BlogList() {
             desc="desc"
             img={Image1}
             linkname="Best Salad Recipe"
-            linkpath="blog/mdx-blog-post"
+            linkpath="docs/Appetizer/3"
           />
           <Post
             title="Title"
             desc="desc"
             img={Image2}
-            linkname="Healthy Bread"
-            linkpath="/blog/oats"
+            linkname="Best Blueberry Oat Muffins"
+            linkpath="/docs/Desserts/Bluberry%20Oat%20Muffins"
           />
           <Post
             title="Title"
             desc="desc"
             img={Image3}
             linkname="Pizza Pizza"
-            linkpath="blog/welcome"
+            linkpath="/docs/Dinner/Pizza"
           />
         </div>
       </div>

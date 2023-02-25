@@ -45,14 +45,14 @@ export default function BlogList() {
             desc="desc"
             img={Image1}
             linkname=" Art to Tasty Bread"
-            linkpath="blog/mdx-blog-post"
+            linkpath="/docs/Appetizer/1"
           />
           <Post
             title="Title"
             desc="desc"
             img={Image2}
             linkname="Fluffy Artisian Bread "
-            linkpath="/blog/oats"
+            linkpath="/docs/Appetizer/2"
           />
         </div>
       </div>

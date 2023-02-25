@@ -1,0 +1,5 @@
+# Appetizer
+![breakfast](/img/salad_3.jpeg)
+
+### The start of every meal..
+The appetizer section of our cookbook is the perfect place to start when you're looking to impress your guests or add a little pizzazz to your meal. This section features a wide range of bite-sized dishes, dips, and spreads that are perfect for snacking or sharing with friends and family. From classic options like deviled eggs and cheese platters to more unique and trendy ideas like avocado bruschetta and stuffed mushrooms, the appetizer section offers something to suit every taste and occasion. Whether you're hosting a fancy dinner party or a casual get-together, the appetizer section is sure to have something that will make your guests' taste buds sing. So explore the many delicious options available and get ready to wow your guests with an array of scrumptious and impressive appetizers.

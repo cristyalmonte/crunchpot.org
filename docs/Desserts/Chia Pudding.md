@@ -4,6 +4,8 @@ tags: [chia pudding,healthy,gluten free]
 ---
 
 Chia pudding is a delicious and wholesome dessert that is both easy to make and highly nutritious. Made with chia seeds, which are packed with fiber, protein, and omega-3 fatty acids, this pudding is a great choice for anyone looking to add more healthy foods to their diet. The texture of chia pudding is creamy and indulgent, with a satisfying chewiness from the swollen chia seeds. It can be customized with a variety of toppings and flavors, from fresh berries and sliced bananas to chopped nuts and a drizzle of honey. What's more, chia pudding is naturally gluten-free, dairy-free, and vegan, making it a great option for those with dietary restrictions or preferences. 
+
+
 ![pudding](./img/chia_pudding.jpeg)
 
 #### Ingredients:
