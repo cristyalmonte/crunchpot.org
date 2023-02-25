@@ -70,7 +70,19 @@ img[alt=cristy] {
   margin: 0 auto;
   max-width: 100%;
   height: auto;
-} 
+}
+
+@media (max-width: 767px) {
+  img[alt=cristy] {
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  img[alt=cristy] {
+    width: 33%;
+  }
+}
 
 img[alt=Image3] { 
   display: block;
