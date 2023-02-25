@@ -18,7 +18,7 @@ function HomepageHeader() {
         <div
           style={{
             backgroundImage: `url("img/background.jpeg")`,
-            height: "32rem",
+            height: "40rem",
             backgroundPosition: "center",
             backgroundSize: "cover",
           }}

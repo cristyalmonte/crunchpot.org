@@ -113,7 +113,7 @@ const config = {
               },
               {
                 label: 'Blog',
-                to: '/docs/blog',
+                to: '/blog/',
                 className: 'mobile-hide', // add the class "mobile-hide"
               },
             ],
