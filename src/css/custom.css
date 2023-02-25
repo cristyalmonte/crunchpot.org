@@ -69,3 +69,12 @@
   --ifm-color-primary-lighter: #f6c0ae;
   --ifm-color-primary-lightest: #fbe6df;
 }
+@media only screen and (max-width: 768px) {
+  .mobile-hide {
+    display: none;
+  }
+}@media (max-width: 767px) {
+  .doc-section {
+    display: none;
+  }
+}

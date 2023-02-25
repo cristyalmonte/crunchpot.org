@@ -5,6 +5,7 @@ id: 2
 title: Pancakes 
 content: Pancakes are delicious 
 ---
+Looking for a healthy and delicious breakfast option? Look no further than our oat pancakes! Made with wholesome ingredients like rolled oats, bananas, and maple syrup, these pancakes are packed with dietary fiber and essential nutrients to fuel your day. Plus, they're a breeze to whip up and they're also incredibly tasty and sure to become a new favorite in your breakfast rotation.
 
 ![Oats](./img/pancakes_2.jpeg)
 

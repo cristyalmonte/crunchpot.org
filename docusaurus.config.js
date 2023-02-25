@@ -57,11 +57,6 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       search: {
-        // Optional, by default Docusaurus searches files listed in docs/sidebar.js.
-        // You can include any searchable file types in this array.
-        // Note that you must also have a matching plugin to be able to parse the files.
-        // Supported file types include: .md, .mdx, .html, .json, .js, .jsx
-        // searchableFiles: ['.md', '.mdx'],
       },
       navbar: {
         title: 'Home',
@@ -80,7 +75,7 @@ const config = {
           },
           {to: '/blog', label: 'BLOG', position: 'left'},
           {to: '/donate/', label: 'ABOUT', position: 'left'},
-          {href:'https://www.amazon.com/b?node=23520742011', label: 'AMAZON', position:'left'},
+          // {href:'https://www.amazon.com/b?node=23520742011', label: 'AMAZON', position:'left'},
         
           ...socials,
           // {
@@ -106,6 +101,7 @@ const config = {
         links: [
           {
             title: 'Docs',
+            
             items: [
 
               {

@@ -33,31 +33,6 @@ img {
 }
 
 
-/* @media (prefers-color-scheme: dark) {
-  .heroBanner {
-    color: rgb(0, 0, 0);
-    background-color: rgb(29, 29, 29);
-  }
-} */
-/* 
-@media (min-width: 576px) {
-  img {
-    max-width: 25%;
-  }
-}
-
-@media (min-width: 768px) {
-  img {
-    max-width: 50%;
-  }
-}
-
-@media (min-width: 992px) {
-  img {
-    max-width: 75%;
-  }
-} */
-
 img[alt=Oats] { 
   display: block;
   margin-left: auto;
@@ -89,6 +64,12 @@ img[alt=pudding] {
   margin-left: auto;
   margin-right: auto;
   width: 60%;
+} 
+img[alt=cristy] { 
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
 } 
 
 img[alt=Image3] { 

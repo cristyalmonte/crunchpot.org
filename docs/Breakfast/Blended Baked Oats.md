@@ -6,7 +6,8 @@ title:  Oats
 content: 'These yummy blended baked oats are packed with dietary fiber and essential nutrients to help you start the day feeling satisfied, while tricking your taste buds into thinking you’re eating dessert for breakfast.'
 ---
 
-These yummy blended baked oats are packed with dietary fiber and essential nutrients to help you start the day feeling satisfied, while tricking your taste buds into thinking you’re eating dessert for breakfast.
+<!-- These yummy blended baked oats are packed with dietary fiber and essential nutrients to help you start the day feeling satisfied, while tricking your taste buds into thinking you’re eating dessert for breakfast. -->
+Start your day off right with these yummy blended baked oats - not only do they taste like a decadent dessert, but they're also chock-full of dietary fiber and essential nutrients to leave you feeling fully satisfied. Indulge your taste buds without any guilt and enjoy a breakfast that's both delicious and nutritious!
 
 ![Oats](./img/baked_oats_all.jpeg)
 
