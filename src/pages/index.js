@@ -57,8 +57,8 @@ export default function Home() {
       <main>
         {/* <HomepageFeatures /> */}
         <BlogList3 />
-       < BlogList />
-       <BlogList2 />
+       < BlogList2 />
+       <BlogList />
       </main>
     </Layout>
   );

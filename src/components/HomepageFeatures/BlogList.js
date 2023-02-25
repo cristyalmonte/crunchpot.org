@@ -5,7 +5,7 @@ import Search from 'react-search-input';
 
 import Image1 from "@site/static/img/macarons.jpeg";
 import Image2 from "@site/static/img/blended_oats.jpeg";
-import Image3 from "@site/static/img/pastry.jpeg";
+import Image3 from "@site/static/img/pancakes_2.jpeg";
 
 // fix issue with images
 // const App = () => {
@@ -60,7 +60,7 @@ export default function BlogList() {
             desc="desc"
             img={Image3}
             linkname="Taste the Crunch"
-            linkpath="blog/welcome"
+            linkpath="docs/Breakfast/2"
           />
         </div>
       </div>
